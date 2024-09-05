@@ -31,7 +31,6 @@ This project follows a layered architecture with the MVVM pattern:
 - **Koin**: Dependency injection framework
 - **Navigation Component**: Manages in-app navigation between screens
 - **ViewModel**: For managing UI-related data lifecycle consciously
-- **Accompanist Insets**: For handling insets like the status bar
 
 ## Installation
 
